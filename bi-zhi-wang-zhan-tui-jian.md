@@ -18,3 +18,5 @@ description: 一些好看的网页壁纸推荐
 
 > [https://wall.alphacoders.com/?lang=Chinese](https://wall.alphacoders.com/?lang=Chinese)
 
+> [https://pic.netbian.com/](https://pic.netbian.com)
+
